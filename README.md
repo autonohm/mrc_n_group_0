@@ -2,6 +2,11 @@
 
 Template repository for the MRC-N workshop
 
+# Create your own repo based on this
+
+Please use your own user and the "fork" option from git to create your own repository based on this template.
+Make sure to rename it to your group ID and remember to adjust the CMakeList.txt and package.xml.
+
 
 # Install instructions
 
