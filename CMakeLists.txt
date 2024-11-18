@@ -13,6 +13,7 @@ find_package(catkin REQUIRED COMPONENTS
   rospy
   std_msgs
   tf
+  mrc_n_codebase
 )
 
 ## System dependencies are found with CMake's conventions
